@@ -20,4 +20,4 @@
 
 
 ## Some Statistics About Me
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weichi910622&layout=donut-vertical repo=AndyCodee.github.io&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515))](https://github.com/anuraghazra/github-readme-stats)
+
