@@ -1,4 +1,4 @@
-## HI! I'm Jack Chen
+## HI! I'm Jack Chen🖖
 -  I am currently pursuing my master’s degree in Electrical Engineering at Chung Cheng University
 -  I’m  learning MCU / Embedded system
 
