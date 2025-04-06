@@ -4,9 +4,13 @@
 
  
 ## 💡 Projects
-### MCU & Machine Learning
+### MCU  
+#### Machine Learning
 - [Color Recognition on MCU (NUC140)]
 - [Banknote Recognition on MCU (M032KG)]
+#### Basic
+- [Closed-Loop-Motor-Speed-Control on MCU Arduino UNO R3]
+  
 ## 📚 Skills
 <h4>MCU</h4>
 <ol>
