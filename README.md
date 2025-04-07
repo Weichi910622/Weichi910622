@@ -14,7 +14,7 @@
 ## 📚 Skills
 <h4>MCU</h4>
 <ol>
-    <li><span style="font-size: smaller;">Experienced with MCU communication protocols like SPI, I2C, and UART.</span></li>
+    <li><span style="font-size: smaller;">Experienced with MCU.</span></li>
 </ol>
 
 ## 🔧 Languages
