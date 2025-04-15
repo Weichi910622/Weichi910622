@@ -6,8 +6,8 @@
 ## 💡 Projects
 ### MCU  
 #### Machine Learning
-- [Banknote Recognition on MCU (M032KG)](https://github.com/Weichi910622/Banknote-Recognition)
-- [Color Classfication on MCU (NUC140)](https://github.com/Weichi910622/Color-Recognition)
+- [Banknote Classification on MCU (M032KG)](https://github.com/Weichi910622/Banknote-Recognition)
+- [Color Classification on MCU (NUC140)](https://github.com/Weichi910622/Color-Recognition)
 
 #### Basic
 - [Closed-Loop-Motor-Speed-Control on MCU (Arduino UNO R3)](https://github.com/Weichi910622/Closed-Loop-Motor-Speed-Control)
