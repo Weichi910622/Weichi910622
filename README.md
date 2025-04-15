@@ -8,10 +8,10 @@
 ## 💡 Selected Projects
 
 ### Embedded Machine Learning
-- [Banknote Recognition (M032KG)](https://github.com/Weichi910622/Banknote-Recognition)  
+- [Banknote Classification (M032KG)](https://github.com/Weichi910622/Banknote-Recognition)  
   Real-time RGB signal classification using photoresistors and MLP neural network.
   
-- [Color Recognition (NUC140)](https://github.com/Weichi910622/Color-Recognition)  
+- [Color Classification (NUC140)](https://github.com/Weichi910622/Color-Recognition)  
   Recognizes 7 distinct colors using analog RGB light input and neural network inference.
 
 ### Embedded Control Systems
@@ -29,7 +29,7 @@
   - Python
   - MATLAB
 - **Tools**
-  - Keil uVision, Arduino IDE, VS Code, Git, PuTTY, Logic Analyzer
+  - Keil uVision, Arduino IDE, VS Code, Git, PuTTY, PyCharm
 
 ---
 
