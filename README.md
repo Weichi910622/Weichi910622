@@ -33,7 +33,7 @@
   - Python
   - MATLAB
 - **Tools**
-  - Keil uVision, Arduino IDE, VS Code, Git, PuTTY, PyCharm
+  - Keil uVision, Arduino IDE, Git, PuTTY, PyCharm
 
 ---
 
