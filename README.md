@@ -27,7 +27,7 @@
 ## 🔧 Technical Skills
 
 - **Embedded Systems & MCU Programming**
-  - Platforms: M032KG, NUC140, Arduino UNO R3
+  - Platforms: STM32, M032KG, NUC140, Arduino UNO R3
 - **Languages**
   - C / C++
   - Python
