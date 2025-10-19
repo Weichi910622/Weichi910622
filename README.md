@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Jack Chen
 
 🎓 Master’s student in Electrical Engineering at Chung Cheng University  
-🔬 Focused on MCU programming, embedded systems, and physiological signal prediction
+🔬 Focused on MCU programming, embedded systems, and physiological signal.
 
 
 ---
