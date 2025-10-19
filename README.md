@@ -18,6 +18,10 @@
   Recognizes 7 distinct colors using analog RGB light input and neural network inference.
 
 ### Embedded Control Systems
+- [CAN communication & PID Close Loop Motor Speed Control(STM32)]
+
+  Muti-devices communication by CAN & real-time monitoring and controlling motor speed.
+  
 - [PID Close Loop Motor Speed Control(STM32)](https://github.com/Weichi910622/STM32-PID_Closed_Loop_Motor_Speed_Control)
   
   Real-time monitoring and controlling motor speed.
